@@ -10,6 +10,7 @@ body{
     font-family: 'Gotu', sans-serif;
     font-family: 'Nunito', sans-serif;
     margin: 0;
+    background-color: whitesmoke;
 }
 
 hr{
@@ -44,8 +45,8 @@ hr{
 }
 
 .link-secondary{
-    color: var(--primary-color);
-    border: 1px solid var(--primary-color);
+    color: #14b8a6;
+    border: 1px solid #14b8a6;
     border-radius: 0.5rem;
 }
 
@@ -64,17 +65,18 @@ hr{
 /* navigation */
 .navigation{
     background-color: var(--primary-color);
-    color: white;
+    color: var(--dark-gray);
     padding: 1rem;
     border-bottom-left-radius: 1rem;
 }
 
 .navigation .nav-brand{
-    font-weight: bold;
+    font-weight: bolder;
+    font-size: x-large;
 }
 
 .navigation .link{
-    color: white;
+    color: var(--dark-gray);
 }
 
 .navigation .nav-pills{
