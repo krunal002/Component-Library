@@ -121,6 +121,22 @@ hr{
     background-color: var(--off-white);
 }
 
+/* Home button */
+.link-back{
+    margin: 0;
+    background-color: var(--off-white);
+    padding: 1rem 1rem;
+    text-align: center;
+}
+
+.home-button{
+    text-decoration: none;
+    padding: 0.3rem 1.3rem;
+    background-color: var(--dark-gray);
+    border-radius: 0.5rem;
+    color: white;
+}
+
 /* footer */
 .footer{
     background-color: var(--primary-color);
