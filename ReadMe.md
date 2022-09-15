@@ -1,3 +1,4 @@
 # myPortfolio
-Short introduction of all the technologies and projects on which i worked recently.
-Content in myPortfolio - Projects and Blogs
+Introduction to all the technologies known to me and projects on which I worked recently.
+It contains live links and source code of my projects.
+Content in myPortfolio - Projects and Blogs.
