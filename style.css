@@ -17,7 +17,7 @@ body{
     display: block;
     margin: auto;
     max-width: 800px;
-    padding: 0 0.6rem;
+    padding: 0 0.4rem;
 }
 hr{
     margin: 2rem 0rem;
@@ -70,6 +70,7 @@ hr{
     color: var(--dark-gray);
     padding: 1rem;
     border-bottom-left-radius: 1rem;
+    text-align: right;
 }
 
 .navigation .nav-brand{
@@ -79,11 +80,10 @@ hr{
 
 .navigation .link{
     color: var(--dark-gray);
-    text-align: right;
 }
 
-.navigation .nav-pills{
-    /* text-align: right; */
+.navigation .nav-brand{
+    text-align: left;
 }
 
 .navigation .link-active{
