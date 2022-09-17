@@ -13,6 +13,12 @@ body{
     background-color: whitesmoke;
 }
 
+#main{
+    display: block;
+    margin: auto;
+    max-width: 800px;
+    padding: 0 0.6rem;
+}
 hr{
     margin: 2rem 0rem;
 }
@@ -115,12 +121,14 @@ hr{
 
 .ow{
     background-color: var(--off-white);
+    border-radius: 1rem;
 }
 
 /* Home button */
 .link-back{
     margin: 0;
     background-color: var(--off-white);
+    border-radius: 1rem;
     padding: 1rem 1rem;
     text-align: center;
 }
@@ -135,11 +143,12 @@ hr{
 
 /* footer */
 .footer{
+    margin-top: 1rem;
     background-color: var(--primary-color);
     padding: 2rem 0rem;
     text-align: center;
     color: white;
-    border-bottom-right-radius: 1rem;
+    border-top-right-radius: 1rem;
 }
 
 .footer .footer-header{
