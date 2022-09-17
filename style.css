@@ -79,10 +79,11 @@ hr{
 
 .navigation .link{
     color: var(--dark-gray);
+    text-align: right;
 }
 
 .navigation .nav-pills{
-    text-align: right;
+    /* text-align: right; */
 }
 
 .navigation .link-active{
